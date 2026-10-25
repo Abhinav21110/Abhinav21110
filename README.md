@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Animated wave header — capsule-render (kyechan99/capsule-render) -->
+<!-- Animated wave header: capsule-render (kyechan99/capsule-render) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abhinav%20Govind&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%2B%20Cybersecurity%20%2B%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- Animated typing subtitle — readme-typing-svg (DenverCoder1/readme-typing-svg) -->
+<!-- Animated typing subtitle: readme-typing-svg (DenverCoder1/readme-typing-svg) -->
 <a href="https://github.com/Abhinav21110">
-  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Building+network-isolated%2C+production-grade+systems;Contributor+%40+Calico+(Tigera's+open-source+CNI);Building+Letushack+%E2%80%94+gamified+cybersecurity+learning;Autonomous+pentesting+with+multi-agent+AI+%2B+RAG;CS+(AI%2FML)+undergrad+%7C+Hyderabad%2C+India" alt="Animated introduction" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Building+network-isolated%2C+production-grade+systems;Contributor+%40+Calico+(Tigera's+open-source+CNI);Building+Letushack%3A+gamified+cybersecurity+learning;Autonomous+pentesting+with+multi-agent+AI+%2B+RAG;CS+(AI%2FML)+undergrad+%7C+Hyderabad%2C+India" alt="Animated introduction" width="100%" />
 </a>
 
 <br/>
@@ -29,11 +29,11 @@ whoami:
   graduating: "May 2028"
   role: "Software Developer Intern @ Cyberparadigm"
   focus: ["Network Security", "Full-Stack Development", "Offensive AI/Cybersecurity"]
-  currently_building: "Letushack — a gamified cybersecurity learning platform"
+  currently_building: "Letushack: a gamified cybersecurity learning platform"
   fun_fact: "I've broken more staging environments than production ones. Mostly."
 ```
 
-I'm a Computer Science (AI/ML) undergraduate who works across **full-stack development, network infrastructure, and cybersecurity** — with a production contribution merged into **Calico**, Tigera's open-source Kubernetes CNI. I'm looking for a **software engineering internship** where I can push systems and security work at real scale.
+I'm a Computer Science (AI/ML) undergraduate who works across **full-stack development, network infrastructure, and cybersecurity**, including a production contribution merged into **Calico**, Tigera's open-source Kubernetes CNI. I'm looking for a **software engineering internship** where I can push systems and security work at real scale.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
@@ -61,12 +61,12 @@ I'm a Computer Science (AI/ML) undergraduate who works across **full-stack devel
 
 ## 💼 Experience
 
-### 🔒 Software Developer Intern — **Cyberparadigm**
-`Oct 2025 — Present` · Hyderabad
+### 🔒 Software Developer Intern | **Cyberparadigm**
+`Oct 2025 to Present` · Hyderabad
 
 - Designed **network isolation and access control policies** for a cloud-hosted platform using **Kubernetes + Calico**, and contributed bug fixes upstream to **Calico** (Tigera's open-source CNI)
-- Built **[Letushack](https://letushack.com)** — a gamified cybersecurity learning platform with live, isolated hacking labs and a multi-tier XP / streak / rank system
-- Built **Letithack** — a multi-agent autonomous pentesting framework (`Python`, `MCP`, `ChromaDB`, `RAG`) with attack-planning, command sanitization, and browser automation for sandboxed testing
+- Built **[Letushack](https://letushack.com)**, a gamified cybersecurity learning platform with live, isolated hacking labs and a multi-tier XP / streak / rank system
+- Built **Letithack**, a multi-agent autonomous pentesting framework (`Python`, `MCP`, `ChromaDB`, `RAG`) with attack-planning, command sanitization, and browser automation for sandboxed testing
 - Designed hands-on cybersecurity labs (Web, OSINT, Cloud, Network, System) and ran a live **4-week playground + final CTF** on **[ctf.letushack.com](https://ctf.letushack.com)**
 - Stack: `Python` `Node.js` `Next.js` `React.js` `PostgreSQL` `Redis`
 
@@ -83,7 +83,7 @@ Gamified cybersecurity learning platform with live hacking labs in isolated envi
 Autonomous AI-driven pentesting framework using multi-agent orchestration and RAG, with a categorized security knowledge base, command sanitization, attack-planning layers, and browser automation for agents to operate in sandboxed testing environments.
 
 #### 🌾 CropCare `React · TypeScript · Tailwind · Google Gemini API · Python`
-Smart farming platform for crop advisory, soil health monitoring, weather insights, and market prices — with an AI chatbot and pest detection modules in progress.
+Smart farming platform for crop advisory, soil health monitoring, weather insights, and market prices, with an AI chatbot and pest detection modules in progress.
 
 **Live:** [crop-advisory.vercel.app](https://crop-advisory.vercel.app)
 
@@ -99,10 +99,10 @@ A network **world model** (GNN + transformer encoders → RSSM) that forecasts a
 
 ## 🏆 Achievements
 
-- 🥈 **1st Runner-up** — CyberCongress Hackathon @ GCET
-- 🎯 **52nd / 520+ teams** — HTB Global CyberSkills Benchmark CTF 2026, contribution to *Project Nightfall* with team **LetUsHack**
-- 🥉 **4th Place** — SNIST CyberStrike CTF
-- ⚔️ **118th / 7,000+ teams** — HTB Apocalypse Saltcrown CTF, with team **Cyberparadigm**
+- 🥈 **1st Runner-up** | CyberCongress Hackathon @ GCET
+- 🎯 **52nd / 520+ teams** | HTB Global CyberSkills Benchmark CTF 2026, contribution to *Project Nightfall* with team **LetUsHack**
+- 🥉 **4th Place** | SNIST CyberStrike CTF
+- ⚔️ **118th / 7,000+ teams** | HTB Apocalypse Saltcrown CTF, with team **Cyberparadigm**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
