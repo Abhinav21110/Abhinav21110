@@ -3,17 +3,17 @@
 <!-- Animated wave header: capsule-render (kyechan99/capsule-render) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abhinav%20Govind&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%2B%20Cybersecurity%20%2B%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<!-- Animated typing subtitle: readme-typing-svg (DenverCoder1/readme-typing-svg) -->
+<!-- Animated typing subtitle: DenverCoder1/readme-typing-svg -->
 <a href="https://github.com/Abhinav21110">
-  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Building+network-isolated%2C+production-grade+systems;Contributor+%40+Calico+(Tigera's+open-source+CNI);Building+Letushack%3A+gamified+cybersecurity+learning;Autonomous+pentesting+with+multi-agent+AI+%2B+RAG;CS+(AI%2FML)+undergrad+%7C+Hyderabad%2C+India" alt="Animated introduction" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=750&amp;height=65&amp;lines=Building+production-grade+secure+systems%3BOpen-source+contributor+at+Calico%3BBuilding+Letushack%3A+cybersecurity+learning%3BMulti-agent+AI+and+security+research%3BComputer+Science+%28AI%2FML%29+%7C+Hyderabad%2C+India&amp;v=2" alt="Building secure systems, contributing to Calico, and working on Letushack" width="100%" />
 </a>
 
 <br/>
 
-<!-- Badges -->
+<!-- Badges: live repo count and contribution activity; no followers or view counter -->
 <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-203A43?style=for-the-badge" alt="Hyderabad, India" />
-<img src="https://komarev.com/ghpvc/?username=Abhinav21110&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Abhinav21110?label=Followers&style=for-the-badge&color=2C5364&labelColor=203A43" alt="followers" />
+<a href="https://github.com/Abhinav21110?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbhinav21110&amp;query=%24.public_repos&amp;label=Public+Repos&amp;color=2C5364&amp;style=for-the-badge&amp;labelColor=203A43" alt="Number of public GitHub repositories" /></a>
+<a href="https://github.com/Abhinav21110?tab=overview&amp;from=2026-01-01&amp;to=2026-12-31"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAbhinav21110%3Fy%3D2026&amp;query=%24.total.2026&amp;label=2026+Contributions&amp;color=2C5364&amp;style=for-the-badge&amp;labelColor=203A43" alt="Number of GitHub contributions in 2026" /></a>
 
 </div>
 
