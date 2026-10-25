@@ -5,13 +5,13 @@
 
 <!-- Animated typing subtitle — readme-typing-svg (DenverCoder1/readme-typing-svg) -->
 <a href="https://github.com/Abhinav21110">
-  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Building+network-isolated%2C+production-grade+systems;Contributor+%40+Calico+(Tigera's+open-source+CNI);Building+Letushack+%E2%80%94+gamified+cybersecurity+learning;Autonomous+pentesting+with+multi-agent+AI+%2B+RAG;CS+(AI%2FML)+undergrad+%7C+Hyderabad%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Building+network-isolated%2C+production-grade+systems;Contributor+%40+Calico+(Tigera's+open-source+CNI);Building+Letushack+%E2%80%94+gamified+cybersecurity+learning;Autonomous+pentesting+with+multi-agent+AI+%2B+RAG;CS+(AI%2FML)+undergrad+%7C+Hyderabad%2C+India" alt="Animated introduction" width="100%" />
 </a>
 
 <br/>
 
 <!-- Badges -->
-<img src="https://img.shields.io/badge/📍-Hyderabad,_Telangana-0F2027?style=for-the-badge&labelColor=203A43" />
+<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-203A43?style=for-the-badge" alt="Hyderabad, India" />
 <img src="https://komarev.com/ghpvc/?username=Abhinav21110&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/Abhinav21110?label=Followers&style=for-the-badge&color=2C5364&labelColor=203A43" alt="followers" />
 
@@ -41,7 +41,7 @@ I'm a Computer Science (AI/ML) undergraduate who works across **full-stack devel
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,nodejs,nextjs,react,ts,js,postgres,redis,docker,kubernetes,git,github,figma&theme=dark" />
+<img alt="Languages and developer tools" src="https://skillicons.dev/icons?i=py,nodejs,nextjs,react,ts,js,postgres,redis,docker,kubernetes,git,github,figma&theme=dark" />
 
 </div>
 
@@ -61,10 +61,6 @@ I'm a Computer Science (AI/ML) undergraduate who works across **full-stack devel
 
 ## 💼 Experience
 
-<table width="100%">
-<tr>
-<td width="100%">
-
 ### 🔒 Software Developer Intern — **Cyberparadigm**
 `Oct 2025 — Present` · Hyderabad
 
@@ -74,36 +70,13 @@ I'm a Computer Science (AI/ML) undergraduate who works across **full-stack devel
 - Designed hands-on cybersecurity labs (Web, OSINT, Cloud, Network, System) and ran a live **4-week playground + final CTF** on **[ctf.letushack.com](https://ctf.letushack.com)**
 - Stack: `Python` `Node.js` `Next.js` `React.js` `PostgreSQL` `Redis`
 
-</td>
-</tr>
-</table>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://letushack.com">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav21110&repo=letushack&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Abhinav21110">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav21110&repo=letithack&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-</a>
-<br/>
-<a href="https://crop-advisory.vercel.app">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav21110&repo=CropCare&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Abhinav21110">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav21110&repo=VYUHA&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-</a>
-
-<sub>Pin cards render automatically once each repo is public under this GitHub account — no other setup needed.</sub>
-
-</div>
-
 #### 🎮 Letushack `Next.js · React · PostgreSQL · Redis · Kubernetes · Calico · Docker · rCTF`
 Gamified cybersecurity learning platform with live hacking labs in isolated environments, a multi-tier gamification system (XP / streaks / ranks), and a live rCTF-based 4-week playground + final CTF event.
+
 **Live:** [letushack.com](https://letushack.com) · **CTF:** [ctf.letushack.com](https://ctf.letushack.com)
 
 #### 🤖 Letithack `Python · MCP · ChromaDB · RAG`
@@ -111,6 +84,7 @@ Autonomous AI-driven pentesting framework using multi-agent orchestration and RA
 
 #### 🌾 CropCare `React · TypeScript · Tailwind · Google Gemini API · Python`
 Smart farming platform for crop advisory, soil health monitoring, weather insights, and market prices — with an AI chatbot and pest detection modules in progress.
+
 **Live:** [crop-advisory.vercel.app](https://crop-advisory.vercel.app)
 
 #### 🧠 VYUHA `GNN · Transformers · PyTorch · Monte Carlo Simulation · SHAP`
@@ -136,12 +110,10 @@ A network **world model** (GNN + transformer encoders → RSSM) that forecasts a
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=Abhinav21110&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" />
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav21110&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" />
+<img height="165" alt="GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=Abhinav21110&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+<img height="165" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhinav21110&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav21110&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6600&currStreakLabel=58A6FF" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhinav21110&theme=onedark&no-frame=true&no-bg=true&row=1&margin-w=15&column=7" />
+<img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=Abhinav21110&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6600&currStreakLabel=58A6FF" />
 
 </div>
 
@@ -151,12 +123,10 @@ A network **world model** (GNN + transformer encoders → RSSM) that forecasts a
 
 <div align="center">
 
-<!-- Generated by Platane/snk GitHub Action — see snake.yml -->
-<img src="https://raw.githubusercontent.com/Abhinav21110/Abhinav21110/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<!-- Generated by .github/workflows/snake.yml on the output branch -->
+<img src="https://raw.githubusercontent.com/Abhinav21110/Abhinav21110/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph with a snake" />
 
 </div>
-
-> This animates automatically once the included `snake.yml` workflow (below) runs in your `Abhinav21110/Abhinav21110` profile repo.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&width=100%"/>
 
